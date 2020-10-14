@@ -41,10 +41,6 @@
       <span>Portfolio</span>
     </v-btn>
 
-    <!-- <v-btn text>
-      <span>Blog</span>
-    </v-btn> -->
-
     <v-btn
       active-class="no-active"
       text

@@ -40,7 +40,7 @@
         <p class="text-body2">
           I am a software developer, a soccer fan, a video gamer, and a dog
           lover. I have 2 beautiful shibas, Luka and Mika. They are extremely
-          friendly and all both very good boys. I love science and technology,
+          friendly and are both very good boys. I love science and technology,
           and went to college for an engineering degree. After college, I fell
           in love with Javascript and web technologies during my first job. I
           loved how it just makes sense, I loved how helpful toolings can be, I
@@ -56,11 +56,15 @@
         </p>
 
         <p class="text-body2">
-          Between Vue and React, I am all for Vue. I like its elegancy and
-          flexibility. The entire ecosystem of Vue just allows me to make my
-          apps effortlessly, with understanding how exactly the framework works
-          from top to bottom, I can not only achieve anything I want, but also
-          make them pretty and performant.
+          I love Vue, but I also like React. For Vue, I love its elegancy and
+          flexibility. The syntax sugar sometimes make me forget I am writing
+          javascript. The entire ecosystem of Vue allows me to make my apps
+          effortlessly, with understanding how exactly the framework works from
+          top to bottom, I can not only achieve anything I want, but also make
+          them pretty and performant. For React, although syntactically
+          different, they are really the same. I like how writing React feels
+          more down to the earth, it feels like it almost is writing vanilla
+          javascript but with all its power and great toolings.
         </p>
 
         <p class="text-body2">
@@ -87,13 +91,14 @@
           <span class="font-italic">www.morningstar.com</span> and
           <span class="font-italic">direct.morningstar.com</span>. I worked on
           different graphical components for better visualization of data, home
-          page layout, ads performance improvement, and the complete rehaul of
+          page layouts, ads performances, and the complete rehaul of
           <span class="font-italic">morningstar.com</span>. On top of that I
           participated in the project of
           <span class="font-italic">direct.morningstar.com</span>, moving a
-          platform application completely on cloud, and reengineered first
+          platform application completely to cloud, and reengineered first
           version of the backend to improve bundle sizing and maintainability of
-          the code, along with the entire login flow.
+          the code. Some notable projects include the design of data table,
+          standarize internal charting tools, and new login workflow for direct.
         </portfolio-item>
 
         <portfolio-item
@@ -106,8 +111,9 @@
           business is a material-design-based responsive Vue application hosted
           serverlessly on AWS. Using services like lambda, gateway, S3, dynamo,
           cloudfront, cognito, and amplify.js, the application has an entire
-          login flow for customers and allows the business owner to easily
-          manage her business effortlessly with minimum maintainaince fee.
+          secure login flow for customers and allows the business owner to
+          easily showcase and manage her business effortlessly with minimum
+          maintainaince fee.
         </portfolio-item>
 
         <portfolio-item
